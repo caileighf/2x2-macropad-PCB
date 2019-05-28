@@ -19,7 +19,7 @@ U 1 1 5CED83DB
 P 4560 4040
 F 0 "U1" H 4560 2151 50  0000 C CNN
 F 1 "ATmega32U4-AU" H 4560 2060 50  0000 C CNN
-F 2 "Package_QFP:TQFP-44_10x10mm_P0.8mm" H 4560 4040 50  0001 C CIN
+F 2 "Housings_QFP:TQFP-44_10x10mm_Pitch0.8mm" H 4560 4040 50  0001 C CIN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf" H 4560 4040 50  0001 C CNN
 	1    4560 4040
 	1    0    0    -1  
