@@ -601,4 +601,28 @@ Text GLabel 7375 4250 0    50   Input ~ 0
 ROW0
 Text GLabel 7375 5025 0    50   Input ~ 0
 ROW1
+Text GLabel 5243 4442 2    50   Input ~ 0
+ROW0
+Wire Wire Line
+	5243 4442 5160 4442
+Wire Wire Line
+	5160 4442 5160 4440
+Text GLabel 5211 2938 2    50   Input ~ 0
+COL1
+Text GLabel 5212 3137 2    50   Input ~ 0
+ROW1
+Text GLabel 5212 3038 2    50   Input ~ 0
+COL0
+Wire Wire Line
+	5160 2940 5211 2940
+Wire Wire Line
+	5211 2940 5211 2938
+Wire Wire Line
+	5160 3040 5212 3040
+Wire Wire Line
+	5212 3040 5212 3038
+Wire Wire Line
+	5160 3140 5212 3140
+Wire Wire Line
+	5212 3140 5212 3137
 $EndSCHEMATC
